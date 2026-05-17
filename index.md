@@ -4,8 +4,6 @@
 
 STRÆX is a family-friendly party game app made for group gameplay, challenges, and social fun
 
-The app is not a drinking game and does not require or encourage alcohol use
-
 Players are never required to follow any prompt in the app. Each player is responsible for how they choose to play, and players should skip any prompt they do not want to do
 
 ## Data We Collect
